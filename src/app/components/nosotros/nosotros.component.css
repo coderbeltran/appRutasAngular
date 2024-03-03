@@ -1,0 +1,32 @@
+.nosotros {
+    padding: 50px 0;
+  }
+  
+  .nosotros h2 {
+    text-align: center;
+    margin-bottom: 30px;
+  }
+  
+  .nosotros-content {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .nosotros-text {
+    flex: 1;
+    padding: 20px;
+  }
+  
+  .nosotros-image {
+    flex: 1;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  .nosotros-image img {
+    max-width: 100%;
+    border-radius: 5px;
+  }
+  
